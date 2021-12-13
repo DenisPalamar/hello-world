@@ -1,2 +1,4 @@
 # hello-world
-первый репозиторий
+my first reposytory
+немного о себе
+my name is Denis
