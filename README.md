@@ -1,5 +1,6 @@
 # hello-world
-my first reposytory
+Мой первый репозиторий
 #
-немного о себе
+Немного о себе
+#
 my name is Denis
